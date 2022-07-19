@@ -18,7 +18,7 @@
 8. *Check for node version using (node -v)*
 9. *Check for npm version using (npm -v)*
 10. *Install firebase using (npm install --global firebase-tools)*
-11. *firebase --version
+11. *firebase --version*
 
 ## `4th Milestone`
 12. *firebase init*
